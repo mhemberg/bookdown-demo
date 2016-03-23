@@ -12,11 +12,13 @@ always_allow_html: yes
 
 # About the course
 
-Recent technological advances have made it possible to obtain genome-wide transcriptome data from single cells using high-throughput sequencing (scRNA-seq). Even though scRNA-seq makes it possible to address problems that are intractable with bulk RNA-seq data, analysing scRNA-seq is also more challenging.
+Recent technological advances have made it possible to obtain genome-wide transcriptome data from single cells using high-throughput sequencing (scRNA-seq). The advantage of scRNA-seq is that it makes it possible to address questions that are inaccessible using bulk RNA-seq technology. However, the computational analysis of scRNA-seq presents novel challenges, many of which remain unresolved today.
 
-In this course we will be surveying the existing problems as well as the available computational and statistical frameworks available for the analysis of scRNA-seq.
+In this course we will be surveying the existing problems as well as the available computational and statistical frameworks available for the analysis of scRNA-seq. The approaches presented should be considered as our view on what is best practice for the data analysis and as new results are presented in the field, we aim to update the material presented here accordingly.
 
 ## Registration  
+
+This course is being offered through the <a href="http://training.csx.cam.ac.uk/bioinformatics/" target="blank">Bioinformatics training</a> at the University of Cambridge. However, the material is meant to be free-standing and it is our aim that anyone who is interested in learning the basics of scRNA-seq analysis should be able to utilize this resource.
 
 <a href="http://training.csx.cam.ac.uk/bioinformatics/event/1626698" target="blank">http://training.csx.cam.ac.uk/bioinformatics/event/1626698</a>
 
